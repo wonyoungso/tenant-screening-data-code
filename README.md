@@ -4,7 +4,7 @@ This folder includes data and code associated with the behavioral experiment wit
 * `science_analysis_final_paper-08.2018.R`: the full R code from the paper
 * `r_science_experiment_1_posts.09.26.2016.csv` all posts in the experiment, including randomization blocks removed due to software errors
 
-This paper has been submitted by PNAS:
+This paper has been submitted to PNAS:
 * So, Wonyoung (2021) [Tenant screening services reinforce landlords' automation bias and blanket rejection behavior]. Proceedings of the National Academy of Sciences Apr 2021. Under Review.
 
 # R Library versions used in this analysis
