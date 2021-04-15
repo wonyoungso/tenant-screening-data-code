@@ -1,5 +1,5 @@
-# Estimating The Effect of Public Postings of Norms in Subreddits: Data and Code
-This folder includes data and code associated with the experiment pre-registered on the Open Science Framework on August 25, 2016: [Estimating the Effect of Public Postings of Norms in Subreddits: Pre-Analysis Plan](https://osf.io/jhkcf/). The files in this folder include:
+# Tenant screening services reinforce landlords' automation bias and blanket rejection behavior: Data and Code
+This folder includes data and code associated with the behavioral experiment with landlords conducted in April 2021. The files in this folder include:
 
 * `science_analysis_final_paper-08.2018.R`: the full R code from the paper
 * `r_science_experiment_1_posts.09.26.2016.csv` all posts in the experiment, including randomization blocks removed due to software errors
